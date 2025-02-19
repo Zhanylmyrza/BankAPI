@@ -184,5 +184,14 @@ docker-compose up --build
 ### `requirements.txt`
 Список зависимостей проекта.
 
+## Дополнительные материалы 
+
+![image](https://github.com/user-attachments/assets/64df11ab-e289-486a-977a-1f8979392655)
+
+![image](https://github.com/user-attachments/assets/e6f18c37-0554-4250-93fa-feac11413410)
+
+![image](https://github.com/user-attachments/assets/fb99c803-ccd0-435a-81f9-37a3deb02c1f)
+
+И так далее, и тому подобное......
 
 
