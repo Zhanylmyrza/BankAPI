@@ -15,7 +15,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-  git clone [<репозиторий>](https://github.com/Zhanylmyrza/BankAPI.git)
+  git clone (https://github.com/Zhanylmyrza/BankAPI.git)
   cd BankAPI
 ```
 
